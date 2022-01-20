@@ -28,6 +28,11 @@
 	margin-bottom: auto;
 }
 
+.marginTop32px{
+	margin-top: 32px;
+	margin-bottom: auto;
+}
+
 .form-mt-20px{
 	margin-top: 20px;
 	margin-bottom: auto;
@@ -75,6 +80,17 @@
 	margin-left: 5%;
 	margin-right: auto;
 
+}
+
+.marginBlogContent{
+	margin-left: 210px;
+	margin-right: auto;
+
+}
+
+.marginVote{
+	margin-left: 4px;
+	margin-right: auto;
 }
 
 .marginLeft16px{
@@ -134,4 +150,27 @@
 
 .breadcrumbLink{
 	text-decoration:none;
+}
+
+.forumUserImg{
+	width: 70px;
+	height: 70px;
+}
+
+.forumUser{
+	display: inline-flex;
+}
+
+.forumUserDetail{
+	display: block;
+}
+
+.dateTitle{
+	margin-top: -20px; 
+	font-size: 14px;
+}
+
+.imgAbout{
+	width:490px; 
+	height: 250px;
 }
